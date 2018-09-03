@@ -1,5 +1,6 @@
 ---
-title: Navigation
+title: Components
+subtitle: Test
 categories: ['general']
 ---
 
