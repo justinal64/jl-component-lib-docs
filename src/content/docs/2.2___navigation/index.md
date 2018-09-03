@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Navigation
 categories: ['general']
 ---
 
